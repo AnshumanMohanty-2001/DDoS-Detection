@@ -115,7 +115,7 @@ The DDoS attack SDN dataset could be downloaded using the [Link](https://data.me
     .
     │
     ├── dataset_sdn.csv
-    ├── Machine Learning Based DDOS Detection
+    ├── Machine Learning Based DDOS Detection.ipynb
     ├── img_temp
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -172,10 +172,15 @@ DDoS attacks analysis and detection were performed using machine learning method
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributions
+Contributions are what make open source such a fantastic environment to learn, inspire, and create. Any contribution you could provide to this existing work is much appreciated.
+Please fork the repository or create a pull request if you have any suggestion for betterment. Subsequently, you could also open an issue for queries. Also, Don't forget to give the project a star!
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
-Email: anshumohanty2002@gmail.com
-[![website](./img_temp/email.svg)](anshumohanty2002@gmail.com)
+&nbsp;<a href="anshumohanty2002@gmail.com"><img src="./img_temp/email.svg"></a>
+&nbsp;&nbsp;<a href="https://github.com/AnshumanMohanty-2001"><img src="./img_temp/github.svg"></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/anshuman-mohanty-b21b04231/"><img src="./img_temp/linkedin.svg"></a>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AnshumanMohanty-2001/DDoS-Detection.svg?style=for-the-badge
 [contributors-url]: https://github.com/AnshumanMohanty-2001/DDoS-Detection/graphs/contributors
