@@ -228,7 +228,7 @@ Accuracy of Proposed DNN model before and after hypertuning
 
 <br>
 <br>
-<b>Plot for Loss v/s Number of Epochs</b>
+<center><b>Plot for Loss v/s Number of Epochs</b></center>
 <center><img src = 'images/plots/1.png'><br>
 <b>Plot for Accuracy v/s Number of Epochs</b>
 </center>
