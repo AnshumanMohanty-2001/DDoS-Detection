@@ -204,7 +204,7 @@ The DDoS attack SDN dataset could be downloaded using the [Link](https://data.me
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Results
-Accuracy Results of all Algorithms
+### Accuracy Results of all Algorithms
 | <b>Algorithm</b>    | <b>Accuracy (%)</b> |
 |---------------------|---------------------|
 | DNN                 | 99.38               |
@@ -216,8 +216,8 @@ Accuracy Results of all Algorithms
 | Logistic Regression | 83.69               |
 | Naive Bayes         | 71.31               |
 | QDA                 | 50.14               |
-<br>
-Accuracy of Proposed DNN model before and after hypertuning
+
+### Accuracy of Proposed DNN Model Before and After Hypertuning
 
 | <b>Proposed DNN</b> | <b>Accuracy (%)</b> |
 |---------------------|---------------------|
@@ -225,20 +225,26 @@ Accuracy of Proposed DNN model before and after hypertuning
 | After Hypertuning   | 99.38               |
 
 
+<br>
+
+<p align = "center">
+<img src = 'images/plots/1.png'><br>
+<b>Plot for Loss v/s Number of Epochs</b>
+</p>
 
 <br>
-<br>
-<center><b>Plot for Loss v/s Number of Epochs</b></center>
-<center><img src = 'images/plots/1.png'><br>
+
+<p align = "center">
+<img src = 'images/plots/2.png'><br>
 <b>Plot for Accuracy v/s Number of Epochs</b>
-</center>
-<br>
-<center><img src = 'images/plots/2.png'><br>
+</p>
 
-</center>
-<br><br>
+<br>
+
+<p align = "center">
+<img src = 'images/plots/3.png'><br>
 <b>Final Confusion Matrix</b>
-<center><img src = 'images/plots/3.png'><br>
+</p>
 
 </center>
 <p align = "justify">
